@@ -1,5 +1,5 @@
-# node-note
-常用模块记录
+# 常用模块记录
+
 ## [log-update](https://github.com/sindresorhus/log-update)
 > Log by overwriting the previous output in the terminal.
 > Useful for rendering progress bars, animations, etc.
