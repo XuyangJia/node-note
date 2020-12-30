@@ -5,4 +5,4 @@
 ```
 $ npm install --save listr
 ```
-<img src="media/screenshot.gif">
+<img src="https://github.com/SamVerschueren/listr/raw/master/media/screenshot.gif">
