@@ -1,5 +1,7 @@
 # 常用模块记录
 
+## [Moment.js](http://momentjs.com/)
+A JavaScript date library for parsing, validating, manipulating, and formatting dates.
 ## [node-fetch](https://github.com/node-fetch/node-fetch)
 A light-weight module that brings <a href="https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API">Fetch API</a> to Node.js.
 # [ws](https://github.com/websockets/ws)
