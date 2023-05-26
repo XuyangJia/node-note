@@ -14,7 +14,7 @@ a Node.js WebSocket library
 > Useful for rendering progress bars, animations, etc.
 <img src="https://raw.githubusercontent.com/sindresorhus/log-update/main/screenshot.gif">
 
-## [listr](https://github.com/SamVerschueren/listr) 
+## [listr2](https://github.com/listr2/listr2) 
 > Terminal task list
 <img src="https://github.com/SamVerschueren/listr/raw/master/media/screenshot.gif">
 
